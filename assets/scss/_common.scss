@@ -84,19 +84,19 @@ select {
 }
 
 .bg-primary {
-  background: $primary-color !important;
+  background: black !important;
 }
 
 .bg-secondary {
-  background: $secondary-color !important;
+  background: black !important;
 }
 
 .bg-light{
-  background: $light !important;
+  background: black !important;
 }
 
 .text-primary {
-  color: $primary-color !important;
+  color: orange !important;
 }
 
 a.text-primary:hover {
@@ -104,7 +104,7 @@ a.text-primary:hover {
 }
 
 .text-color {
-  color: $text-color;
+  color: orange;
 }
 
 .mb-10 {
