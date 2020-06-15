@@ -24,30 +24,30 @@
 }
 
 .btn-primary {
-  background: $primary-color;
+  background: orange;
   color: $white;
-  border-color: $primary-color;
+  border-color: orange;
 
   &:active,
   &:hover,
   &.focus,
   &.active {
-    background: $primary-color !important;
-    border-color: $primary-color !important;
+    background: orange !important;
+    border-color: orange !important;
   }
 }
 
 .btn-outline-primary {
   background: transparent;
-  color: $primary-color;
-  border-color: $primary-color;
+  color: orange;
+  border-color: orange;
 
   &:active,
   &:hover,
   &.focus,
   &.active {
-    background: $primary-color !important;
-    border-color: $primary-color !important;
+    background: orange !important;
+    border-color: orange !important;
     color: $white;
   }
 }
@@ -55,9 +55,9 @@
 
 .btn-transparent {
   background: transparent;
-  color: $primary-color;
+  color: orange;
   border: 0;
-  border-bottom: 1px solid $primary-color;
+  border-bottom: 1px solid orange;
   border-radius: 0;
   padding: 2px;
 
