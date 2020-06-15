@@ -1,10 +1,10 @@
 body {
-  background-color: $body-color;
+  background-color: black;
   overflow-x: hidden;
 }
 
 ::selection {
-  background: lighten($color: $primary-color, $amount: 10);
+  background: lighten($color: orange, $amount: 10);
   color: $white;
 }
 
