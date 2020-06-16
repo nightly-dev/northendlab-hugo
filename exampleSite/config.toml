@@ -60,7 +60,7 @@ weight = 1
 # home
 home = "Home"
 # logo
-logo = ""
+logo = "images/logo.svg"
 # meta data
 author = "Hemendra rajput"
 description = ""
