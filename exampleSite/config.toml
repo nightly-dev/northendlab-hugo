@@ -86,7 +86,7 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, Welcome To winningtiger,s Blog <br> Here we post achievements of our members"
+title = "Hi, Welcome To winningtiger's Blog <br> "
 image = "images/banner/illustration.svg"
 
 
