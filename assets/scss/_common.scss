@@ -70,7 +70,7 @@ select {
     width: 100%;
     top: 0;
     left: 0;
-    background: white;
+    background: $black;
     opacity: .5;
   }
 }
@@ -84,15 +84,15 @@ select {
 }
 
 .bg-primary {
-  background: white !important;
+  background: black !important;
 }
 
 .bg-secondary {
-  background: white !important;
+  background: black !important;
 }
 
 .bg-light{
-  background: white !important;
+  background: black !important;
 }
 
 .text-primary {
