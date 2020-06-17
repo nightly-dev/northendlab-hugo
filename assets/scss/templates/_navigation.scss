@@ -24,9 +24,9 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: white;
+  color: $text-color-dark;
   &:hover{
-    color: white;
+    color: $primary-color
   }
 }
 
@@ -62,7 +62,7 @@
   height: 100%;
   width: 100%;
   border: 0;
-  background: $white;
+  background: white;
   font-size: 20px;
   padding: 0;
 
